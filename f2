@@ -1,7 +1,7 @@
-<<<<<<< HEAD
 
 This is the Latest content for file f2
 latest
+<<<<<<< HEAD
 =======
 
 
@@ -12,3 +12,5 @@ latest
 
 New Meassge and update >>>>>>> parent of e315f9c (Update f2)
 EDiting again
+=======
+>>>>>>> parent of c8f4c1c (reverted the file)
